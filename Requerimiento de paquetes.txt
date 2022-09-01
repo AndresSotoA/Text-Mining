@@ -1,0 +1,24 @@
+#Manipulación de dataset y Nube de palabras
+library(tidyverse)
+library(tidytext)
+library(tm)
+library(dplyr)
+
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+library(SnowballC)
+library(plotrix)
+
+library(igraph)
+library(ggraph)
+library(tidygraph)
+
+library(knitr)
+library(quanteda)
+library(plotly)
+# Modelamiento de palabras SVM y Naive Bayes
+library(e1071)
+library(naivebayes)
+library(caret)
+library(gmodels)
